@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskE_PhoneBook", "TaskE_Ph
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskF_TrainTicketManager", "TaskF_TrainTicketManager\TaskF_TrainTicketManager.csproj", "{E0941D82-3148-4F5B-BDD3-5FF37C1F8D4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskG_ModuleBuilder", "TaskG_ModuleBuilder\TaskG_ModuleBuilder.csproj", "{A974EDB8-162C-471C-ADED-C4A354880B40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{E0941D82-3148-4F5B-BDD3-5FF37C1F8D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0941D82-3148-4F5B-BDD3-5FF37C1F8D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0941D82-3148-4F5B-BDD3-5FF37C1F8D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A974EDB8-162C-471C-ADED-C4A354880B40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A974EDB8-162C-471C-ADED-C4A354880B40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A974EDB8-162C-471C-ADED-C4A354880B40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A974EDB8-162C-471C-ADED-C4A354880B40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
