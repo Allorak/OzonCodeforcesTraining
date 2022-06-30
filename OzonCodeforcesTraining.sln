@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskC_TableSorting", "TaskC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskD_LoginValidation", "TaskD_LoginValidation\TaskD_LoginValidation.csproj", "{B0BCDB28-62E8-4F13-BAEA-F90C49FD1403}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskE_PhoneBook", "TaskE_PhoneBook\TaskE_PhoneBook.csproj", "{531F171E-1DAD-4E5E-B793-880665335D80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{B0BCDB28-62E8-4F13-BAEA-F90C49FD1403}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0BCDB28-62E8-4F13-BAEA-F90C49FD1403}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0BCDB28-62E8-4F13-BAEA-F90C49FD1403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531F171E-1DAD-4E5E-B793-880665335D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531F171E-1DAD-4E5E-B793-880665335D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531F171E-1DAD-4E5E-B793-880665335D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531F171E-1DAD-4E5E-B793-880665335D80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
